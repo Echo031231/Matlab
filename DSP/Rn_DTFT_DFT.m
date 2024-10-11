@@ -1,3 +1,7 @@
+%绘制RN(n)矩形序列的DTFT和DFT
+%Author: <烟花易冷.>
+%Date: 2024.10.10
+
 % 定义参数
 n = 0:3;
 RN = ones(size(n));
